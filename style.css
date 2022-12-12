@@ -6,3 +6,8 @@ main {
   min-height: 90vh;
 
 }
+
+body {
+  background-image: url("bg_1.jpg");
+  background-color: #cccccc;
+}
