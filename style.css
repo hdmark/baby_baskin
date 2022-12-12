@@ -10,5 +10,5 @@ main {
 body {
   background-image: url("bg_1.jpg");
   background-color: #cccccc;
-  background-size: "cover";
+  background-size: cover;
 }
